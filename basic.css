@@ -1,0 +1,13 @@
+
+aside{
+    width: 30%;
+    padding: 15px;
+    margin: 15px;
+    float: right;
+    font-style: italic;
+    background-color:antiquewhite
+}
+input[type=email]{
+    background-color: #000;
+    color: #FFF;
+}
