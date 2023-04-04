@@ -1,0 +1,22 @@
+*{ margin: 0;
+padding: 0;}
+.container{
+    width: 100%;
+    background-color: aqua;
+}
+.container .right .left{
+    width: 50%;
+}
+.left img{
+    width: 50%;
+    height: 500px;
+}
+@media (max-width:802px){
+    .container{
+        height: 700px;
+    }
+    .container .right .left{
+        width: 100%;
+    }
+    @media (max-width:320px)
+}
