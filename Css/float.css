@@ -2,7 +2,7 @@
 padding: 0;}
 .container{
     width: 100%;
-    background-color: aqua;
+    background-color: rgb(240, 181, 219);
 }
 .container .right .left{
     width: 50%;
